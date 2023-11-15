@@ -10,7 +10,7 @@
   }
 }
 .img{
-  background: url(../public/assets/portfolio/code.avif);
+  background: url("../public/assets/portfolio/code.avif");
   background-size: cover;
   background-position:  center;
   width: max-content;
