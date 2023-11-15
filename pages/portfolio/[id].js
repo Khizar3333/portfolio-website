@@ -1,9 +1,5 @@
-import { useRouter } from 'next/router'
 import React from 'react'
-import installNode from "../../public/assets/portfolio/installNode.jpg";
-import reactParallax from "../../public/assets/portfolio/reactParallax.jpg";
-import usestate from "../../public/assets/portfolio/usestate.jpg";
-import reactWeather from "../../public/assets/portfolio/reactWeather.jpg";
+
 import Todolist from "../../public/assets/portfolio/Todolist.png";
 import tictactoe from "../../public/assets/portfolio/tictactoe.png"
 import blog from "../../public/assets/portfolio/blog.png"

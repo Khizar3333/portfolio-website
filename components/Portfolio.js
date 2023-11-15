@@ -1,10 +1,5 @@
 import React from 'react'
 import { MdExpandMore } from "react-icons/md";
-
-import installNode from "../public/assets/portfolio/installNode.jpg";
-import reactParallax from "../public/assets/portfolio/reactParallax.jpg";
-import usestate from "../public/assets/portfolio/usestate.jpg";
-import reactWeather from "../public/assets/portfolio/reactWeather.jpg";
 import Todolist from "../public/assets/portfolio/Todolist.png";
 import blog from "../public/assets/portfolio/blog.png"
 import currencycon from "../public/assets/portfolio/currencyconverter.png"
