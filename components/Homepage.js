@@ -1,18 +1,19 @@
 import React from 'react'
 // import heroImage from '../public/assets/heroImage.png'
 import myimage from '../public/assets/linkedinprofile.png'
+import cover from "../public/assets/portfolio/alexandru-acea-XEB8y0nRRP4-unsplash.jpg";
 import Image from 'next/image'
 import {MdExpandMore} from 'react-icons/md'
 import Link from 'next/link'
 const Homepage = () => {
   return (
-    <div className="img bg-[url(../public/assets/portfolio/alexandru-acea-XEB8y0nRRP4-unsplash.jpg)] h-screen w-max sm:w-full text-center ">
-      <div className="max-w-screen-xl  h-full w-full pt-24  p-4 flex flex-col items-center mx-auto ">
+    <div className=" h-screen  bg-gray-300 w-max sm:w-full text-center ">
+      <div className="max-w-screen-xl h-full w-full pt-24  p-4 flex flex-col items-center mx-auto ">
         <div className="w-64 h-64  overflow-hidden rounded-lg  mx-auto">
           <Image src={myimage}  alt='me'/>
         </div>
-        <h1 className="uppercase font-bold text-gray-200 text-5xl">full stack developer</h1>
-         <p className="text-gray-200 text-xl max-w-sm mx-auto">
+        <h1 className="uppercase font-bold text-gray-800 text-5xl">full stack developer</h1>
+         <p className="text-gray-800 text-xl max-w-sm mx-auto">
           I have 2 years of self experience building and desgining software.
           Currently, I love to work on web application using technologies like
           React, Tailwind, Next JS,Shadcn ui and GraphQL.
