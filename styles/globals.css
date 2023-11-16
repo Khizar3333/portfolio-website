@@ -10,7 +10,7 @@
   }
 }
 .img{
-  background: url("../public/assets/portfolio/alexandru-acea-XEB8y0nRRP4-unsplash.jpg");
+  /* background: url("../public/assets/portfolio/alexandru-acea-XEB8y0nRRP4-unsplash.jpg"); */
   background-size: cover;
   background-position:  center;
   width: max-content;
