@@ -7,7 +7,7 @@ import {MdExpandMore} from 'react-icons/md'
 import Link from 'next/link'
 const Homepage = () => {
   return (
-    <div className=" h-screen  bg-gray-200 w-max sm:w-full text-center ">
+    <div className=" h-screen  bg-gray-200  sm:w-full text-center w-auto">
       <div className="max-w-screen-xl h-full w-full pt-24  p-4 flex flex-col items-center mx-auto ">
         <div className="w-64 h-64  overflow-hidden rounded-lg  mx-auto">
           <Image src={myimage}  alt='me'/>

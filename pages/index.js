@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <div>
+    <div className='w-max'>
          <Homepage/>
          <Portfolio/>
          <Experience/>
